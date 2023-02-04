@@ -1,0 +1,13 @@
+Creat a Zip's law plot (word vs. probability) on the words in the questions'
+titles. Does this plot follow your expectations of Zip's law? Discuss this in a paragraph in your
+solution. Include your plot and refer to it in your discussion.
+Generating word clouds. Provide two word clouds on the top-20 frequent
+tokens, once without removing the stop words and another after removing them. You should
+use the NLTK library for tokenization and stop word removal. In your solution, put the two
+figures next to each other and discuss your observations.
+In an NLP project, we are interested in designing a model to generate text
+from all the presidents. To do this, we need to train our model with the speech given by the
+presidents. You are not going to provide this data, but what would you suggest as the solution?
+Provide the steps and commands that you would recommend for gathering this data.
+How WordPiece is different from BPE? Use the following example to show
+how WordPiece tokenization work:
